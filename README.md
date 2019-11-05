@@ -1,6 +1,6 @@
 # Gallery-Application
 
-- Search images by word from server, using flickr API
+- Search images by word from server using flickr API
 - View images by slide
 - Select and save images using UIActivityViewController
 
